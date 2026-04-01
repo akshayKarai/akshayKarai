@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Areas of Expertise
+### Areas of Expertise
 - 🖥️ **Backend Development:** Java, Ruby on Rails, REST APIs, Microservices  
 - ☁️ **Cloud & Infrastructure:** AWS, Oracle Cloud (OCI), Serverless, CloudFormation, Terraform  
 - 📊 **Data & Analytics:** Hadoop, ETL Pipelines, MySQL, HBase, Vertica, Visual Analytics  
