@@ -47,4 +47,4 @@
 ---
 
 ### 📬 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/akshaykarai/) | [Portfolio / Projects](https://akshaykarai.github.io/) |
+[LinkedIn](https://www.linkedin.com/in/akshaykarai/) | 
