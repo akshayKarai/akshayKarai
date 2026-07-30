@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshay Karai
 
-### 💻 Software Engineer | Cloud & Backend Specialist | 7+ Years Experience
+### 💻 Software Engineer | Cloud & Backend Specialist | 10+ Years Experience
 
 📍 Overland Park, KS | Masters in Computer Science | MBA in IT | Open to Opportunities
 
