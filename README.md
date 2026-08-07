@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer | Cloud & Backend Specialist | 10+ Years Experience
 
-📍 Overland Park, KS | Masters in Computer Science | MBA in IT | Open to Opportunities
+ Masters in Computer Science | MBA in IT | Open to Opportunities
 
 ---
 
