@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer | Cloud & Backend Specialist | 10+ Years Experience
 
- Masters in Computer Science | MBA in IT |
+ Masters in Computer Science | MBA in IT
 
 ---
 
